@@ -4,8 +4,6 @@ A lightweight, standalone Windows application built to monitor real-time PC syst
 
 This is my very first GitHub project as I continue learning how to code!
 
----
-
 ##  Features
 
 * **Real-Time Telemetry Dashboard:** Tracks and transmits key PC performance metrics.
@@ -13,15 +11,11 @@ This is my very first GitHub project as I continue learning how to code!
 * **Embedded Tooling:** Features an integrated flasher interface leveraging bundled AVRDUDE utilities to program your microcontroller directly from the application.
 * **Custom Hardware Output:** Designed specifically to output system data to a physical display interface.
 
----
-
 ##  Hardware Requirements
 
 To utilize this system out of the box, you will need:
 * **Microcontroller:** Arduino Mega
 * **Display:** I2C LCD Display Module
-
----
 
 ##  Installation & Setup
 
@@ -31,8 +25,6 @@ To utilize this system out of the box, you will need:
 4. Connect the Arduino Mega to your PC using a USB cable.
 5. Open the extracted folder, locate **`HardwareView.exe`**, and launch it.
 6. Follow the intuitive on-screen prompts to flash the pre-compiled firmware and initiate the telemetry stream!
-
----
 
 ## ⚠️ Important Note on Antivirus Warnings
 
