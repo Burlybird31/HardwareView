@@ -1,0 +1,17 @@
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# Zipped archives and duplicate project folders
+*.zip
+HardwareView/
+
+# Local data tracking outputs
+*.csv
+
+# Compiled firmware binaries
+*.hex
+
+# Development tools and environments
+Arduino IDE/
