@@ -6,6 +6,7 @@ dist/
 # Zipped archives and duplicate project folders
 *.zip
 HardwareView/
+HardwareView_v1.0.0/
 
 # Local data tracking outputs
 *.csv
